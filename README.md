@@ -15,9 +15,119 @@ Uma espécie de "Tinder" para os Devs.
 <br>
 
 <p align="center">
-  <a href="#objetivo">Sobre</a> •
-  <a href="#roadmap">Instalação</a> •
-  <a href="#tecnologias">O Tindev</a> •
-  <a href="#contribuicao">Tecnologias</a> •
+  <a href="#sobre">Sobre</a> •
+  <a href="#tindev">Tindev</a> •
+  <a href="#tecnologias">Tecnologias</a> •
   <a href="#autor">Autor</a>
 </p>
+
+<br><br><br>
+
+## Sobre
+
+<p>
+  Projeto desenvolvido durante a <strong style="color: #966EFA">Semana OmniStack 8</strong>, evento criado pela <strong><a href="https://rocketseat.com.br/" style="color: #966EFA">Rocketseat</a></strong>.   
+  Um evento 100% online e GRATUITO, com conteúdo exclusivo e INÉDITO.
+
+Ocorreu do dia 05 ao dia 11 de Agosto de 2019 e teve como intuito mostrar na prática o poder da stack
+<strong><a style="color: #7EC62A" href="https://nodejs.org/pt-br/">NodeJS</a></strong> +
+<strong><a style="color: #4CC7ED" href="https://pt-br.reactjs.org/">ReactJS</a></strong> +
+<strong><a style="color: #61DAFB" href="https://reactnative.dev">React Native</a></strong> e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
+
+</p>
+
+<br><br>
+
+<img src="./readme/Wallpaper.png" alt="Logo" style="border-radius: 20px"/>
+
+<br><br><br>
+
+## Tindev
+
+<p>
+  O Tindev tem como objetivo unir programadores com interesses em comum para, quem sabe, construir projetos juntos ou até mesmo trocar experiências sobre esse mundo louco da programação...😅
+
+A aplicação funciona como um Tinder, onde a pessoa se loga com o usuário do
+<strong><a href="https://github.com/" style="color: black">Github</a></strong>
+através dessa tela:
+
+<br>
+<img src="./readme/Login.png" alt="Login"/>
+<br><br>
+
+E logo após é direcionada para a tela principal onde estarão os cards dos outros usuários cadastrados na plataforma, conforme imagem abaixo:
+
+<br>
+<img src="./readme/Lista.png" alt="Lista"/>
+<br><br>
+
+Os cards contêm o nome e descrição dos Devs cadastrados, além dos botões de <strong>DISLIKE</strong> e <strong>LIKE</strong>.
+Quando o Dev logado dá um like em um usuário da lista que deu like nele num outro momento, acontece o que é chamado de <strong>MATCH</strong>.
+
+Esse evento é sinalizado para ambos os usuários em tempo real, utilizando Websocket. Assim que ocorre o match é apresentado na tela do usuário a seguinte tela:
+
+<br>
+<img src="./readme/Match.png" alt="Match"/>
+<br><br>
+
+Aqui temos uma demostração do evento de match desde o início. O usuário da esquerda da um like no usuário da direita, que momentos depois dá um like do Dev que curtiu o perfil dele e pronto...
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
+
+<br>
+<h2 style="text-align: center; font-family: Parisienne, Sans-serif; font-size: 50px">It's a Match!<h2>
+
+<img src="./readme/Match.gif" alt="GIF Match"/>
+
+</p>
+
+<br><br><br>
+
+## Tecnologias
+
+<div style="display: flex; align-items: center; justify-content: space-around;">
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
+
+<img src="./readme/Node.png" alt="Node" style="width: 100px"/>
+
+<strong><a style="color: #7EC62A; font-size: 20px" href="https://nodejs.org/pt-br/">NodeJS</a></strong>
+
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
+
+<img src="./readme/React.svg" alt="React" style="width: 100px"/>
+
+<strong><a style="color: #4CC7ED; font-size: 20px" href="https://pt-br.reactjs.org/">ReactJS</a></strong>
+
+</div>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
+
+<img src="./readme/React native.png" alt="React" style="width: 150px"/>
+
+<strong><a style="color: #61DAFB; font-size: 20px" href="https://pt-br.reactjs.org/">React Native</a></strong>
+
+</div>
+
+</div>
+
+<br><br><br>
+
+## Autor
+
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+
+<img src="./readme/Profile.jpg" style="border-radius: 50%; width: 200px; border: 2px solid black"/>
+
+<h1 style="margin-bottom: 0">Luiz Rioja</h1>
+<h4 style="margin-top: 0">Backend Developer</h4>
+
+<br><br>
+<a href="https://www.linkedin.com/in/luizrioja">
+<img src="./readme/linkedin.png" alt="LinkedIn" style="width: 50px"/>
+</a>
+
+</div>
