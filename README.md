@@ -30,9 +30,9 @@ Uma espécie de "Tinder" para os Devs.
   Um evento 100% online e GRATUITO, com conteúdo exclusivo e INÉDITO.
 
 Ocorreu do dia 05 ao dia 11 de Agosto de 2019 e teve como intuito mostrar na prática o poder da stack
-<strong><a style="color: #7EC62A" href="https://nodejs.org/pt-br/">NodeJS</a></strong> +
-<strong><a style="color: #4CC7ED" href="https://pt-br.reactjs.org/">ReactJS</a></strong> +
-<strong><a style="color: #61DAFB" href="https://reactnative.dev">React Native</a></strong> e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
+<strong><a href="https://nodejs.org/pt-br/">NodeJS</a></strong> +
+<strong><a href="https://pt-br.reactjs.org/">ReactJS</a></strong> +
+<strong><a href="https://reactnative.dev">React Native</a></strong> e como essas tecnologias podem te levar até os seus maiores objetivos como programador.
 
 </p>
 
