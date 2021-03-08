@@ -74,11 +74,7 @@ Esse evento é sinalizado para ambos os usuários em tempo real, utilizando Webs
 
 Aqui temos uma demostração do evento de match desde o início. O usuário da esquerda da um like no usuário da direita, que momentos depois dá um like do Dev que curtiu o perfil dele e pronto...
 
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap" rel="stylesheet">
-
-<br>
-<h2 style="text-align: center; font-family: Parisienne, Sans-serif; font-size: 50px">It's a Match!<h2>
+<img src="./readme/itsamatch.jpeg" alt="It's a match" />
 
 <img src="./readme/Match.gif" alt="GIF Match"/>
 
@@ -98,7 +94,7 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Autor
 
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<!-- <div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
 
 <img src="./readme/Profile.jpg" style="border-radius: 50%; width: 200px; border: 2px solid black"/>
 
@@ -110,4 +106,4 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 <img src="./readme/linkedin.png" alt="LinkedIn" style="width: 50px"/>
 </a>
 
-</div>
+</div> -->
