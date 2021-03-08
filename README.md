@@ -88,15 +88,11 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Tecnologias
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
+<img src="./readme/nodejs.png" alt="Node" style="margin-right: 40px"/>
 
-<img src="./readme/nodejs.png" alt="Node"/>
+<img src="./readme/react.png" alt="React" style="margin-right: 40px"/>
 
-<img src="./readme/react.png" alt="React"/>
-
-<img src="./readme/react native.png" alt="React"/>
-
-</div>
+<img src="./readme/react native.png" alt="React Native" style="margin-right: 40px"/>
 
 <br><br><br>
 
