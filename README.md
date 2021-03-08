@@ -48,7 +48,9 @@ Ocorreu do dia 05 ao dia 11 de Agosto de 2019 e teve como intuito mostrar na pr�
   O Tindev tem como objetivo unir programadores com interesses em comum para, quem sabe, construir projetos juntos ou até mesmo trocar experiências sobre esse mundo louco da programação...😅
 
 A aplicação funciona como um Tinder, onde a pessoa se loga com o usuário do
-<strong><a href="https://github.com/" style="color: black">Github</a></strong>
+<strong>
+<a href="https://github.com/">Github</a>
+</strong>
 através dessa tela:
 
 <br>
@@ -88,29 +90,11 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
+<img src="./readme/nodejs.png" alt="Node"/>
 
-<img src="./readme/Node.png" alt="Node" style="width: 100px"/>
+<img src="./readme/react.png" alt="React"/>
 
-<strong><a style="color: #7EC62A; font-size: 20px" href="https://nodejs.org/pt-br/">NodeJS</a></strong>
-
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
-
-<img src="./readme/React.svg" alt="React" style="width: 100px"/>
-
-<strong><a style="color: #4CC7ED; font-size: 20px" href="https://pt-br.reactjs.org/">ReactJS</a></strong>
-
-</div>
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-around; height:150px">
-
-<img src="./readme/React native.png" alt="React" style="width: 150px"/>
-
-<strong><a style="color: #61DAFB; font-size: 20px" href="https://pt-br.reactjs.org/">React Native</a></strong>
-
-</div>
+<img src="./readme/react native.png" alt="React"/>
 
 </div>
 
