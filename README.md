@@ -26,7 +26,7 @@ Uma espécie de "Tinder" para os Devs.
 ## Sobre
 
 <p>
-  Projeto desenvolvido durante a <strong style="color: #966EFA">Semana OmniStack 8</strong>, evento criado pela <strong><a href="https://rocketseat.com.br/" style="color: #966EFA">Rocketseat</a></strong>.   
+  Projeto desenvolvido durante a <strong>Semana OmniStack 8</strong>, evento criado pela <strong><a href="https://rocketseat.com.br/">Rocketseat</a></strong>.   
   Um evento 100% online e GRATUITO, com conteúdo exclusivo e INÉDITO.
 
 Ocorreu do dia 05 ao dia 11 de Agosto de 2019 e teve como intuito mostrar na prática o poder da stack
