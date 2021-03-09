@@ -74,7 +74,7 @@ Esse evento é sinalizado para ambos os usuários em tempo real, utilizando Webs
 
 Aqui temos uma demostração do evento de match desde o início. O usuário da esquerda da um like no usuário da direita, que momentos depois dá um like do Dev que curtiu o perfil dele e pronto...
 
-<img src="./readme/itsamatch.jpeg" alt="It's a match" />
+<img src="./readme/itsamatch.png" alt="It's a match" />
 
 <img src="./readme/Match.gif" alt="GIF Match"/>
 
