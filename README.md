@@ -97,4 +97,4 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 ## Autor
 
 <img width="200" src="./readme/Profile.jpg" />
-<img src="https://img.shields.io/badge/-Luiz%20Rioja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizrioja/"/>
+<a href="https://www.linkedin.com/in/luizrioja/"><img width="200" src="https://img.shields.io/badge/-Luiz%20Rioja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizrioja/"/></a>
