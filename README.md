@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/logo.svg" alt="Logo" width="200"/>
+  <img src="./readme/logo.svg" alt="Logo" width="300"/>
   <br>
 </p>
 <h3 align="center">
@@ -92,20 +92,9 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 <img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
 
-<br><br><br>
+<br><br><br><br><br><br>
 
 ## Autor
 
-<div align="left" >
-
-<img src="./readme/Profile.jpg" style="border-radius: 50%; width: 200px; border: 2px solid black"/>
-
-<h1 style="margin-bottom: 0">Luiz Rioja</h1>
-<h4 style="margin-top: 0">Backend Developer</h4>
-
-<br><br>
-<a href="https://www.linkedin.com/in/luizrioja">
-<img src="./readme/linkedin.png" alt="LinkedIn" style="width: 50px"/>
-</a>
-
-</div>
+<img width="200" src="./readme/Profile.jpg" />
+<img src="https://img.shields.io/badge/-Luiz%20Rioja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizrioja/"/>
