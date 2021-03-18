@@ -10,7 +10,7 @@ Uma espécie de "Tinder" para os Devs.
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Omnistack&message=8&color=blueviolet&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/MrRioja/OmniStack-8?color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/MrRioja/OmniStack-8?color=blueviolet&logo=License&style=for-the-badge"/>
 </p>
 <br>
 
