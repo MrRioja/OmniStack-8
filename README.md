@@ -74,7 +74,9 @@ Esse evento é sinalizado para ambos os usuários em tempo real, utilizando Webs
 
 Aqui temos uma demostração do evento de match desde o início. O usuário da esquerda da um like no usuário da direita, que momentos depois dá um like do Dev que curtiu o perfil dele e pronto...
 
-<img src="./readme/itsamatch.png" alt="It's a match" />
+<br><br>
+<p align="center" ><img height="100" src="./readme/itsamatch.png" alt="It's a match" /></p>
+<br><br>
 
 <img src="./readme/Match.gif" alt="GIF Match"/>
 
@@ -84,11 +86,11 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Tecnologias
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/nodejs.png">
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/nodejs.png">
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/react.png">
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/react.png">
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
 
 <br><br><br>
 
