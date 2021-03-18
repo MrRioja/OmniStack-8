@@ -94,7 +94,7 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Autor
 
-<!-- <div style="display: flex; align-items: center; justify-content: center; flex-direction: column">
+<div align="left" >
 
 <img src="./readme/Profile.jpg" style="border-radius: 50%; width: 200px; border: 2px solid black"/>
 
@@ -106,4 +106,4 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 <img src="./readme/linkedin.png" alt="LinkedIn" style="width: 50px"/>
 </a>
 
-</div> -->
+</div>
