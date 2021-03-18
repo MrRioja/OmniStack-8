@@ -86,15 +86,11 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Tecnologias
 
-<p align="center" >
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/nodejs.png">
 
-<img height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/nodejs.png">
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/react.png">
 
-<img height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/react.png">
-
-<img height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
-
-</p>
+<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
 
 <br><br><br>
 
