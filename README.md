@@ -75,6 +75,7 @@ Esse evento é sinalizado para ambos os usuários em tempo real, utilizando Webs
 Aqui temos uma demostração do evento de match desde o início. O usuário da esquerda da um like no usuário da direita, que momentos depois dá um like do Dev que curtiu o perfil dele e pronto...
 
 <br><br>
+
 <p align="center" ><img height="100" src="./readme/itsamatch.png" alt="It's a match" /></p>
 <br><br>
 
@@ -86,15 +87,43 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 ## Tecnologias
 
-<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/nodejs.png">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />
 
-<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/react.png">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="75"/>
 
-<img align="left" height="100" src="https://raw.githubusercontent.com/MrRioja/OmniStack-8/master/readme/javascript.png">
+<img align="left" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
 
 <br><br><br><br><br><br>
 
 ## Autor
 
-<img width="200" src="./readme/Profile.jpg" />
-<a href="https://www.linkedin.com/in/luizrioja/"><img width="200" src="https://img.shields.io/badge/-Luiz%20Rioja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizrioja/"/></a>
+<div align="center">
+<img src="https://badges.pufler.dev/contributors/MrRioja/Omnistack-8?size=100&padding=5&bots=false"/>
+<h1>Luiz Rioja</h1>
+<strong>Backend Developer</strong>
+<br/>
+<br/>
+
+<a href="https://linkedin.com/in/luizrioja" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mrrioja" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:lulyrioja@gmail.com?subject=Fala%20Dev" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://api.whatsapp.com/send?phone=5511933572652" target="_blank">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://join.skype.com/invite/tvBbOq03j5Uu" target="_blank">
+<img alt="Skype" src="https://img.shields.io/badge/SKYPE-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+</div>
