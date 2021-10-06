@@ -11,6 +11,8 @@ Uma espécie de "Tinder" para os Devs.
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Omnistack&message=8&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/license/MrRioja/OmniStack-8?color=blueviolet&logo=License&style=for-the-badge"/>
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/OmniStack-8?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/OmniStack-8?color=blueviolet&style=for-the-badge">
 </p>
 <br>
 
@@ -18,7 +20,8 @@ Uma espécie de "Tinder" para os Devs.
   <a href="#sobre">Sobre</a> •
   <a href="#tindev">Tindev</a> •
   <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a>
+  <a href="#autor">Autor</a> •
+  <a href="#instalacao">Instalação</a>
 </p>
 
 <br><br><br>
@@ -84,6 +87,35 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 </p>
 
 <br><br><br>
+
+
+## Instalação
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/MrRioja/OmniStack-8>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd OmniStack-8
+
+# Vá para a pasta server
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
+
 
 ## Tecnologias
 
