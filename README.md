@@ -88,18 +88,38 @@ Aqui temos uma demostração do evento de match desde o início. O usuário da e
 
 <br><br><br>
 
-
 ## Instalação
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/MrRioja/OmniStack-8>
+$ git clone git@github.com:MrRioja/OmniStack-8.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd OmniStack-8
+
+# Vá para a pasta server
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta 3333 - acesse <http://localhost:3333>
+```
+
+### 🖥️ Rodando o Front End (Web)
+
+```bash
+# Clone este repositório
+$ git clone git@github.com:MrRioja/OmniStack-8.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd OmniStack-8
@@ -116,6 +136,26 @@ $ npm run dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
+### 📱 Rodando o App (Mobile)
+
+```bash
+# Clone este repositório
+$ git clone git@github.com:MrRioja/OmniStack-8.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd OmniStack-8
+
+# Vá para a pasta server
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
 
 ## Tecnologias
 
