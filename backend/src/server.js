@@ -1,4 +1,5 @@
 const express = require("express");
+require("dotenv").config();
 const mongoose = require("mongoose");
 const cors = require("cors");
 
@@ -9,22 +10,18 @@ const server = require("http").Server(app);
 const io = require("socket.io")(server);
 
 const connectedUsers = {};
+const mongoUrl = process.env.MONGO_URL;
 
 io.on("connection", (socket) => {
   const { user } = socket.handshake.query;
 
-  console.log(user, socket.id);
-
   connectedUsers[user] = socket.id;
 });
 
-mongoose.connect(
-  "mongodb+srv://lrioja:lriojaOmniStack8@cluster0-jxg5l.mongodb.net/omnistack8?retryWrites=true&w=majority",
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
-);
+mongoose.connect(mongoUrl, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+});
 
 app.use((req, res, next) => {
   req.io = io;
