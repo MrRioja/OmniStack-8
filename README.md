@@ -21,7 +21,7 @@ Uma espécie de "Tinder" para os Devs.
   <a href="#tindev">Tindev</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#autor">Autor</a> •
-  <a href="#instalacao">Instalação</a>
+  <a href="#instalação">Instalação</a>
 </p>
 
 <br><br><br>
