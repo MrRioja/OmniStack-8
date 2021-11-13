@@ -19,9 +19,9 @@ Uma espécie de "Tinder" para os Devs.
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#tindev">Tindev</a> •
+  <a href="#instalação">Instalação</a> •
   <a href="#tecnologias">Tecnologias</a> •
-  <a href="#autor">Autor</a> •
-  <a href="#instalação">Instalação</a>
+  <a href="#autor">Autor</a>  
 </p>
 
 <br><br><br>
