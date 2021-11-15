@@ -1,0 +1,174 @@
+{
+  "_type": "export",
+  "__export_format": 4,
+  "__export_date": "2021-11-14T00:12:31.724Z",
+  "__export_source": "insomnia.desktop.app:v2021.2.2",
+  "resources": [
+    {
+      "_id": "req_2a79e240371c44c58ebc1623f9e15e1a",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1636848625047,
+      "created": 1576374594381,
+      "url": "http://localhost:3333/devs",
+      "name": "Listagem de devs",
+      "description": "",
+      "method": "GET",
+      "body": {},
+      "parameters": [],
+      "headers": [
+        {
+          "id": "pair_eb4e6baaf12344ae97fe15bd7ac653c7",
+          "name": "user",
+          "value": "619053b8d00817e54ad14ac1"
+        },
+        {
+          "id": "pair_7429f179a96740a1805eae37aee2c8cf",
+          "name": "",
+          "value": ""
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1576374594381,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "parentId": null,
+      "modified": 1627002629685,
+      "created": 1576368029374,
+      "name": "OmniStack 8.0",
+      "description": "",
+      "scope": "collection",
+      "_type": "workspace"
+    },
+    {
+      "_id": "req_fe12b043a4a245f5bc044841526c54c8",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1636848643049,
+      "created": 1576373548921,
+      "url": "http://localhost:3333/devs/6190539cd00817e54ad14abb/likes",
+      "name": "Like",
+      "description": "",
+      "method": "POST",
+      "body": {},
+      "parameters": [],
+      "headers": [
+        {
+          "id": "pair_1cfd36b4c1904ccf9aa91cd1b431049d",
+          "name": "user",
+          "value": "619053b8d00817e54ad14ac1"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1576373548921,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_547013974a3c48b3a0966340121fb0b0",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1633901430265,
+      "created": 1576375039936,
+      "url": "http://localhost:3333/devs/61635a88c7a8e6973dd340bc/dislikes",
+      "name": "Dislike",
+      "description": "",
+      "method": "POST",
+      "body": {},
+      "parameters": [],
+      "headers": [
+        {
+          "id": "pair_1cfd36b4c1904ccf9aa91cd1b431049d",
+          "name": "user",
+          "value": "61635a2ac7a8e6973dd340b5"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1576370832327,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "req_344ca3d9714442f49c412ffbc0f6cbff",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1636848566712,
+      "created": 1576368115733,
+      "url": "http://localhost:3333/devs",
+      "name": "Cadastrar dev",
+      "description": "",
+      "method": "POST",
+      "body": {
+        "mimeType": "application/json",
+        "text": "{\n\t\"username\": \"kielkow\"\n}"
+      },
+      "parameters": [],
+      "headers": [
+        {
+          "id": "pair_03de60fe43a1448fbbaadbb7cee7906e",
+          "name": "Content-Type",
+          "value": "application/json"
+        }
+      ],
+      "authentication": {},
+      "metaSortKey": -1576368115733,
+      "isPrivate": false,
+      "settingStoreCookies": true,
+      "settingSendCookies": true,
+      "settingDisableRenderRequestBody": false,
+      "settingEncodeUrl": true,
+      "settingRebuildPath": true,
+      "settingFollowRedirects": "global",
+      "_type": "request"
+    },
+    {
+      "_id": "env_0ea77426a5db9e79f6dff3e88b69040f6ca32651",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1627002629678,
+      "created": 1576368029421,
+      "name": "Base Environment",
+      "data": {},
+      "dataPropertyOrder": null,
+      "color": null,
+      "isPrivate": false,
+      "metaSortKey": 1576368029422,
+      "_type": "environment"
+    },
+    {
+      "_id": "jar_0ea77426a5db9e79f6dff3e88b69040f6ca32651",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1576368029438,
+      "created": 1576368029438,
+      "name": "Default Jar",
+      "cookies": [],
+      "_type": "cookie_jar"
+    },
+    {
+      "_id": "spc_d08c89a79b164cd8a93392e8162b46c5",
+      "parentId": "wrk_607e4d8002304ca4990323edde5cc0c6",
+      "modified": 1594265640252,
+      "created": 1594265640252,
+      "fileName": "OmniStack 8.0",
+      "contents": "",
+      "contentType": "yaml",
+      "_type": "api_spec"
+    }
+  ]
+}
