@@ -108,11 +108,15 @@ $ cd backend
 
 # Instale as dependências
 $ npm install
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn dev
 
-# O servidor inciará na porta 3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta 3333 ou na porta definida no arquivo .env na variavel APP_PORT - acesse <http://localhost:3333>
 ```
 
 ### 🖥️ Rodando o Front End (Web)
@@ -125,15 +129,19 @@ $ git clone git@github.com:MrRioja/OmniStack-8.git
 $ cd OmniStack-8
 
 # Vá para a pasta server
-$ cd backend
+$ cd frontend
 
 # Instale as dependências
 $ npm install
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+$ npm run start
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn start
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O servidor inciará na porta 3000 - acesse <http://localhost:3000>
 ```
 
 ### 📱 Rodando o App (Mobile)
