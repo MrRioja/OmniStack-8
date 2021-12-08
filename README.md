@@ -154,15 +154,21 @@ $ git clone git@github.com:MrRioja/OmniStack-8.git
 $ cd OmniStack-8
 
 # Vá para a pasta server
-$ cd backend
+$ cd tindev
 
 # Instale as dependências
 $ npm install
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+$ npm run start
+$ npm run android
+# Caso prefira usar o Yarn execute o comando abaixo
+$ yarn start
+$ yarn android
 
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# O app será aberto no emulador que deverá estar aberto no momento da execução do comando
 ```
 
 ## Tecnologias
