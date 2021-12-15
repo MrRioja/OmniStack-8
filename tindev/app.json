@@ -1,4 +1,11 @@
 {
-  "name": "tindev",
-  "displayName": "tindev"
+  "expo": {
+    "name": "tindev",
+    "slug": "tindev",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tindev"
 }
