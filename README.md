@@ -161,14 +161,10 @@ $ npm install
 # Caso prefira usar o Yarn execute o comando abaixo
 $ yarn
 
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-$ npm run android
-# Caso prefira usar o Yarn execute o comando abaixo
-$ yarn start
-$ yarn android
+# Execute a aplicação
+$ expo start
 
-# O app será aberto no emulador que deverá estar aberto no momento da execução do comando
+# Será aberto no terminal o menu do Expo onde poderá scanear o QR Code para executar o app diretamente no seu celular ou as opções de executar no emulador android ou iOS
 ```
 
 ## Tecnologias
