@@ -1,8 +1,5 @@
-import React from 'react';
-import {LogBox} from 'react-native';
-import Routes from './routes';
-
-LogBox.ignoreWarnings(['Unrecognized WebSocket']);
+import React from "react";
+import { Routes } from "./routes";
 
 export default function App() {
   return <Routes />;
