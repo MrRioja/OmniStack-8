@@ -180,7 +180,7 @@ $ expo start
 ## Autor
 
 <div align="center">
-<img src="https://github.com/MrRioja.png"/>
+<img src="https://github.com/MrRioja.png" styles="width: 100px; border-radius: 50px"/>
 <h1>Luiz Rioja</h1>
 <strong>Backend Developer</strong>
 <br/>
