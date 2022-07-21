@@ -180,7 +180,7 @@ $ expo start
 ## Autor
 
 <div align="center">
-<img src="https://badges.pufler.dev/contributors/MrRioja/Omnistack-8?size=100&padding=5&bots=false"/>
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/55336456?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d" />
 <h1>Luiz Rioja</h1>
 <strong>Backend Developer</strong>
 <br/>
