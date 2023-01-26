@@ -103,7 +103,7 @@ $ git clone git@github.com:MrRioja/OmniStack-8.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd OmniStack-8
 
-# Vá para a pasta server
+# Vá para a pasta backend
 $ cd backend
 
 # Instale as dependências
@@ -128,7 +128,7 @@ $ git clone git@github.com:MrRioja/OmniStack-8.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd OmniStack-8
 
-# Vá para a pasta server
+# Vá para a pasta frontend
 $ cd frontend
 
 # Instale as dependências
@@ -153,7 +153,7 @@ $ git clone git@github.com:MrRioja/OmniStack-8.git
 # Acesse a pasta do projeto no terminal/cmd
 $ cd OmniStack-8
 
-# Vá para a pasta server
+# Vá para a pasta tindev
 $ cd tindev
 
 # Instale as dependências
